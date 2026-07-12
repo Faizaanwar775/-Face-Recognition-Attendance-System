@@ -1,0 +1,7 @@
+2026-07-12 23:32:45 | INFO     | khizex.src.storage.database | Database schema ready at C:\Users\LANOVO\OneDrive\Desktop\Khizex_FaceRecognition_Attendance_System\khizex_face_attendance\data\attendance.db
+2026-07-12 23:34:18 | INFO     | khizex.src.storage.database | Database schema ready at C:\Users\LANOVO\OneDrive\Desktop\Khizex_FaceRecognition_Attendance_System\khizex_face_attendance\data\attendance.db
+2026-07-12 23:34:33 | INFO     | khizex.src.core.enrollment | Starting enrollment for 'EMP001' (Faiza Anwar). Please look at the camera...
+2026-07-12 23:35:02 | INFO     | khizex.src.capture.camera_stream | Camera stream stopped.
+2026-07-12 23:36:19 | INFO     | khizex.src.storage.database | Database schema ready at C:\Users\LANOVO\OneDrive\Desktop\Khizex_FaceRecognition_Attendance_System\khizex_face_attendance\data\attendance.db
+2026-07-12 23:36:32 | INFO     | khizex.src.core.enrollment | Starting enrollment for 'EMP001' (Faiza Anwar). Please look at the camera...
+2026-07-12 23:38:41 | INFO     | khizex.src.capture.camera_stream | Camera stream stopped.
